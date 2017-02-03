@@ -80,3 +80,8 @@ var getListOfHeight = function(datetimes, min_max_date){
   }
   return heights;
 }
+
+var checked_info = new Array();
+            String.prototype.replaceAll = function(org, dest) {
+            return this.split(org).join(dest);
+}
