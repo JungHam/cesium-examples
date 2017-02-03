@@ -44,6 +44,8 @@ var czml = movePolygonArray(mf_arr);
 
 * moveLineStringArray([mf_arr], with_height);
 
+* check the structure of moving feature json here : https://ksookim.github.io/mf-json/
+
 ## Draw Primitive
 
 * drawPolygons([mf_arr], with_height)
